@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Run Node](Node.md)
+* [Run Local Node](Node.md)
 * [Guide](formatting.md)

@@ -33,3 +33,43 @@ The is the content on the left side of the panel area.
 ```
 
 <!-- panels:end -->
+
+Important formatting
+
+!> **Time** is money, my friend!
+
+General tips
+
+?> _TODO_ unit test
+
+Details
+
+<details>
+<summary>Self-assessment (Click to expand)</summary>
+
+- Abc
+- Abc
+
+</details>
+
+Or markdown content can be wrapped in html tag.
+
+
+<div style='color: red'>
+
+- listitem
+- listitem
+- listitem
+
+</div>
+
+Blockquotes
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+Unordered List
+
+* First item
+* Second item
+* Third item
+* Fourth item
